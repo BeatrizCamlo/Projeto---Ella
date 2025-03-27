@@ -4,7 +4,7 @@ O projeto em desenvolvimento tem como propósito de exercitar meus conhecimentos
 
 Trata-se de um sistema web de consultório dedicado a saúde da mulher com telas de apresentação (tela incial), tela de agendamento de consultas, tela de agendamento de exames, tela de histórico de consultas e tela de resultado de exames, cada uma em diferentes arquivos.
 
-**Ferramentas Utilizadas**
+**FERRAMENTAS UTILIZADAS**
   -  JavaScript;
   - CSS;
   - HTML.
